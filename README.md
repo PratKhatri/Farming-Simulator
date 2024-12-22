@@ -76,11 +76,12 @@ Welcome to **Farming Simulator**, a fun game where you plant seeds, grow crops, 
 
 6. **Harvest and Clean**:
 
-   - Harvest your crops and buy other tools to clean and organize your farm.  
+   - Harvest your crops and buy new tools to clean and organize your farm.  
      ![Crops](https://github.com/user-attachments/assets/36288f6a-6015-48c1-bb0c-e8611ef2b957)
      
-   - Use Pickaxe to mine stones. 
+   - Use the **Pickaxe** to mine stones and clear your land.  
      ![Pickaxe](https://github.com/user-attachments/assets/9cdcc38b-bd11-4ca6-9f4c-abcd54c63c75)
      
-   - Use Axe to chop down trees.
+   - Use the **Axe** to chop down trees and open up more space for your crops.  
      ![Axe](https://github.com/user-attachments/assets/6136d2dc-4caf-481c-8585-47d2dc2eda8a)
+
