@@ -61,7 +61,7 @@ Welcome to **Farming Simulator**, a fun game where you plant seeds, grow crops, 
 
 5. **Energy and Day System**:
 
-   - The bar above the item bar shows how much energy you have remaining for the day.  
+   - The bar above the item bar shows how much energy remains for the day.  
      ![Full Bar](https://github.com/user-attachments/assets/ad2c492f-7252-4231-b081-b9df5caf74e8)
      
    - Every time you make an action, you lose energy.  
