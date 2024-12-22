@@ -27,7 +27,6 @@ Welcome to **Farming Simulator**, a fun game where you plant seeds, grow crops, 
 | `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`   | Select Slot Item      |
 | `E`             | Open Shop/Close Shop       |
 | `Space`             | Next Day       |
-| `Esc`           | Pause Game               |
 
 ---
 
