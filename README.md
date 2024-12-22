@@ -71,7 +71,7 @@ Welcome to **Farming Simulator**, a fun game where you plant seeds, grow crops, 
    - Once you run out of energy, press `Space` to go to the next day, which gives you a full energy bar.  
      ![Full Bar](https://github.com/user-attachments/assets/ad2c492f-7252-4231-b081-b9df5caf74e8)
      
-   - You will notice that the crops also start to grow.  
+   - You will notice that the crops also start to grow each day.  
      ![Growing Crops](https://github.com/user-attachments/assets/0faad066-6716-4d65-a089-73939fcb0a35)
 
 6. **Harvest and Clean**:
